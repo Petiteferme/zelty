@@ -1,3 +1,9 @@
+a,
+.items_list li .price {
+	color: #990066;
+}
+
+
 .items_list li a {
   color:#990066;
 }
