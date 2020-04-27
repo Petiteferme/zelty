@@ -7,3 +7,25 @@ a,
 .items_list li a {
   color:#990066;
 }
+
+.btn-primary:active,
+.btn-primary:active:focus,
+.btn-primary:active:hover,
+.btn-primary:focus,
+.btn-primary:hover {
+	background-color: #990066;
+	border-color: #990066;
+}
+
+.restaurant_selection .restaurants .active a,
+.restaurant_selection .restaurants a:hover,
+.restaurant_selection .restaurants a,
+#zmodal .modal-header,
+#cart #cart-toggle-btn .cart_nb_items,
+.tag_list,
+.tag_list a.nobg:hover .lab,
+.tag_list .active a.nobg .lab,
+#zmodal .part h4,
+#zmodal .optionbox h4 {
+	background-color: #990066;
+}
